@@ -4,8 +4,8 @@ https://bonnie8ni.github.io/input-sample/
 
 ## 範例敘述
 
-input radio
-input checkbox
+1. input radio
+2. input checkbox
 
 ## 此專案使用 creat-reat-app
 
