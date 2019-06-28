@@ -7,6 +7,6 @@ https://bonnie8ni.github.io/input-sample/
 1. input radio
 2. input checkbox
 
-## 此專案使用 creat-reat-app
+## 此專案使用 create-react-app
 
 https://facebook.github.io/create-react-app/docs/getting-started
